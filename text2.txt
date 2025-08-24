@@ -1,0 +1,2 @@
+This is my new text file in local folder that is gonna be added to github repo 
+helllo in this file I have made some changes
